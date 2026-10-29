@@ -1,0 +1,22 @@
+LAPORAN REKAP DAN ANALISIS NILAI
+================================
+Jumlah data valid: 7
+KKM: 60
+Rata-rata: 76.00
+Nilai minimum: 55
+Nilai maksimum: 92
+Jumlah tuntas: 6
+Jumlah belum tuntas: 1
+
+DETAIL NILAI
+﻿A001, 85, Tuntas
+A002, 78, Tuntas
+A003, 92, Tuntas
+A004, 55, Belum Tuntas
+A005, 74, Tuntas
+A006, 88, Tuntas
+A007, 60, Tuntas
+
+DATA YANG TIDAK VALID
+Baris 15: A008,abc (could not convert string to float: 'abc')
+Baris 17: A009,105 (Nilai harus antara 0 dan 100)
